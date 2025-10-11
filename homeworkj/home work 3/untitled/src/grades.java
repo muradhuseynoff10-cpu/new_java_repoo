@@ -15,7 +15,7 @@ public class grades {
             case 2:
                 System.out.println("Неудовлетворительно");
                 break;
-            
+
         }
     }
 }
